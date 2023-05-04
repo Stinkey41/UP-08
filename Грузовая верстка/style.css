@@ -208,9 +208,10 @@ a {
 
 .slide1 { background-image: url("img/plane-trucks 1.png"); }
 .slide2 { background-image: url("img/logistika 2.png"); }
-.slide3 { background-image: url(http://habrastorage.org/files/663/6b1/d4f/6636b1d4f8e643d29eab8c192fc1cea3.jpg); }
-.slide4 { background-image: url(http://habrastorage.org/files/e59/424/c04/e59424c046be4dab897d84ab015c87ea.jpg); }
-.slide5 { background-image: url(http://habrastorage.org/files/53c/ff6/c1c/53cff6c1caf842368c70b8ef892d8402.jpg); }
+.slide3 { background-image: url("img/75520organization.jpg"); }
+.slide4 { background-image: url("img/1670468326_37-kartinkin-net-p-logistika-kartinki-instagram-47.jpg"); }
+.slide5 { background-image: url("img/Aktualnaya_professiya_logist_plyusy_i_minusy_1-2.jpg"); }
+
 
 .slides {
 	height: inherit;
